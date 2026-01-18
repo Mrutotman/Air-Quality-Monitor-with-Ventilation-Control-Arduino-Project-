@@ -102,7 +102,7 @@ You may modify, improve, or use it for research and education.
 
 ## 💬 Author
 
-Developed by **[Your Name]**  
+Developed by **Mrutotman**  
 Electronics Engineering Student  
 Passionate about Applied Sciences, Sensors, and Embedded Systems
 

@@ -105,7 +105,7 @@ You may modify, improve, or use it for research and education.
 
 Developed by **Mrutotman**  
 Electronics Engineering Student  
-Passionate about Applied Sciences, Sensors, and Embedded Systems
+Passionate about Electronics, IoTs, and Embedded Systems
 
 ---
 

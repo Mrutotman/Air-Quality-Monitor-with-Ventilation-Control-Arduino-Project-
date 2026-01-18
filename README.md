@@ -80,8 +80,8 @@ Displayed values:
    - U8x8lib
    - Servo
    - ScioSense ENS160
-4. Upload `.ino` file
-5. Power using USB or 5V power bank
+4. Upload `.ino` file (Make sure the Arduino is connected to the Serial port of your device)
+5. Power using USB (Type 2) or 5V power bank
 
 ---
 

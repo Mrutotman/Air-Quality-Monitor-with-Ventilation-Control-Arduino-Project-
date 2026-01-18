@@ -34,12 +34,12 @@ An Arduino-based air quality monitoring system using the ENS160 gas sensor and A
 
 | Module | Arduino Pin |
 |--------|-------------|
-| ENS160 SDA | A4 |
-| ENS160 SCL | A5 |
-| AHT20 SDA | A4 |
-| AHT20 SCL | A5 |
-| OLED SDA | A4 |
-| OLED SCL | A5 |
+| ENS160 SDA | A4 (SDA) |
+| ENS160 SCL | A5 (SCL) |
+| AHT20 SDA | A4 (SDA) |
+| AHT20 SCL | A5 (SCL) |
+| OLED SDA | A4 (SDA) |
+| OLED SCL | A5 (SCL)|
 | Servo Signal | D9 |
 | Button | D2 (INPUT_PULLUP) |
 | LED | D7 |

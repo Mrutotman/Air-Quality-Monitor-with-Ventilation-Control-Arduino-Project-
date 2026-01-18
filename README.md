@@ -1,6 +1,6 @@
 # Air Quality Monitor with Ventilation Control (Arduino-Project)
 An Arduino-based air quality monitoring system using the ENS160 gas sensor and AHT20 humidity/temperature sensor, featuring automatic ventilation control, safety alerts, and a compact OLED user interface.
-
+![SgR3c4ja](https://github.com/user-attachments/assets/0e42b5e1-d3d1-4020-9b04-bfbe406cabf7)
 ## ⭐ Features
 
 - ENS160 CO₂ monitoring (SAFE / POOR / DANGER)
